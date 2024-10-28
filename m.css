@@ -1,0 +1,40 @@
+html {
+        min-height:100%;
+}
+
+.log{
+        position: absolute;
+        margin-top: 50px;
+        display:flex;
+}
+
+body {
+        display: flex;
+        justify-content: center; 
+        align-items: flex-start; 
+        height: 50vh;
+        margin-top: -50px;
+        margin-bottom: 100px;
+        font-family: "Jersey 20", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        background-color:black;
+        background-image:url(webBild.jpg);
+        background-repeat:no-repeat;
+        background-size:cover;
+}
+
+.top-header {
+        width:100%;
+        max-width:960px;
+        color:rgb(175,175,175);
+}
+
+.textsty{
+        background: rgb(255,255,255,0.5);
+        border-radius:0.25em; 
+        position: absolute;
+        display: inline-block;
+        padding: 0.5em 1em;
+        margin-top: 150px;
+}

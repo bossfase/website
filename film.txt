@@ -1,0 +1,285 @@
+Blade Runner:Science Fiction:1982:Harrison Ford
+The Fifth Element:Science Fiction:1997:Bruce Willis
+The Martian:Science Fiction:2015:Matt Damon
+District 9:Science Fiction:2009:Sharlto Copley
+Elysium:Science Fiction:2013:Matt Damon
+The Matrix Reloaded:Science Fiction:2003:Keanu Reeves
+The Matrix Revolutions:Science Fiction:2003:Keanu Reeves
+I, Robot:Science Fiction:2004:Will Smith
+War of the Worlds:Science Fiction:2005:Tom Cruise
+Edge of Tomorrow:Science Fiction:2014:Tom Cruise
+The Hunger Games:Science Fiction:2012:Jennifer Lawrence
+The Hunger Games, Catching Fire:Science Fiction:2013:Jennifer Lawrence
+The Hunger Games, Mockingjay - Part 1:Science Fiction:2014:Jennifer Lawrence
+The Hunger Games, Mockingjay - Part 2:Science Fiction:2015:Jennifer Lawrence
+The Day After Tomorrow:Science Fiction:2004:Dennis Quaid
+Independence Day:Science Fiction:1996:Will Smith
+Independence Day: Resurgence:Science Fiction:2016:Liam Hemsworth
+Oblivion:Science Fiction:2013:Tom Cruise
+The War of the Worlds:Science Fiction:2005:Tom Cruise
+Men in Black:Science Fiction:1997:Will Smith
+Men in Black II:Science Fiction:2002:Will Smith
+Men in Black 3:Science Fiction:2012:Will Smith
+Star Trek:Science Fiction:2009:Chris Pine
+Star Trek Into Darkness:Science Fiction:2013:Chris Pine
+Star Trek Beyond:Science Fiction:2016:Chris Pine
+The Chronicles of Riddick:Science Fiction:2004:Vin Diesel
+Riddick:Science Fiction:2013:Vin Diesel
+A.I. Artificial Intelligence:Science Fiction:2001:Haley Joel Osment
+Ender's Game:Science Fiction:2013:Asa Butterfield
+Tron: Legacy:Science Fiction:2010:Garrett Hedlund
+Prometheus:Science Fiction:2012:Noomi Rapace
+Alien:Science Fiction:1979:Sigourney Weaver
+Aliens:Science Fiction:1986:Sigourney Weaver
+Alien³:Science Fiction:1992:Sigourney Weaver
+Alien: Resurrection:Science Fiction:1997:Sigourney Weaver
+Predators:Science Fiction:2010:Adrien Brody
+Alien vs. Predator:Science Fiction:2004:Sanaa Lathan
+Aliens vs. Predator: Requiem:Science Fiction:2007:Steven Pasquale
+Predator 2:Science Fiction:1990:Danny Glover
+The Predator:Science Fiction:2018:Boyd Holbrook
+Pacific Rim:Science Fiction:2013:Charlie Hunnam
+Pacific Rim: Uprising:Science Fiction:2018:John Boyega
+I Am Legend:Science Fiction:2007:Will Smith
+Resident Evil:Science Fiction:2002:Milla Jovovich
+Resident Evil: Apocalypse:Science Fiction:2004:Milla Jovovich
+Resident Evil: Extinction:Science Fiction:2007:Milla Jovovich
+Resident Evil: Afterlife:Science Fiction:2010:Milla Jovovich
+Resident Evil: Retribution:Science Fiction:2012:Milla Jovovich
+Resident Evil: The Final Chapter:Science Fiction:2016:Milla Jovovich
+Tomorrowland:Science Fiction:2015:George Clooney
+The Adjustment Bureau:Science Fiction:2011:Matt Damon
+Starship Troopers:Science Fiction:1997:Casper Van Dien
+Total Recall:Science Fiction:1990:Arnold Schwarzenegger
+Total Recall:Science Fiction:2012:Colin Farrell
+The Island:Science Fiction:2005:Ewan McGregor
+Battlefield Earth:Science Fiction:2000:John Travolta
+The Hitchhiker's Guide to the Galaxy:Science Fiction:2005:Martin Freeman
+The Time Machine:Science Fiction:2002:Guy Pearce
+Equilibrium:Science Fiction:2002:Christian Bale
+Minority Report:Science Fiction:2002:Tom Cruise
+Avatar 2:Science Fiction:2022:Sam Worthington
+Avatar 3:Science Fiction:2024:Sam Worthington
+Avatar 4:Science Fiction:2026:Sam Worthington
+Avatar 5:Science Fiction:2028:Sam Worthington
+E.T. the Extra-Terrestrial:Science Fiction:1982:Henry Thomas
+Close Encounters of the Third Kind:Science Fiction:1977:Richard Dreyfuss
+The Abyss:Science Fiction:1989:Ed Harris
+Contact:Science Fiction:1997:Jodie Foster
+Galaxy Quest:Science Fiction:1999:Tim Allen
+Dune:Science Fiction:1984:Kyle MacLachlan
+Children of Men:Science Fiction:2006:Clive Owen
+The Day the Earth Stood Still:Science Fiction:2008:Keanu Reeves
+A Scanner Darkly:Science Fiction:2006:Keanu Reeves
+Serenity:Science Fiction:2005:Nathan Fillion
+Solaris:Science Fiction:2002:George Clooney
+Die Hard:Action:1988:Bruce Willis
+The Shawshank Redemption:Drama:1994:Tim Robbins
+Forrest Gump:Drama:1994:Tom Hanks
+The Godfather:Drama:1972:Marlon Brando
+Schindler's List:Drama:1993:Liam Neeson
+Gladiator:Drama:2000:Russell Crowe
+The Departed:Drama:2006:Leonardo DiCaprio
+Saving Private Ryan:Drama:1998:Tom Hanks
+The Green Mile:Drama:1999:Tom Hanks
+A Beautiful Mind:Drama:2001:Russell Crowe
+American History X:Drama:1998:Edward Norton
+Good Will Hunting:Drama:1997:Matt Damon
+The Pursuit of Happyness:Drama:2006:Will Smith
+Life Is Beautiful:Drama:1997:Roberto Benigni
+The Pianist:Drama:2002:Adrien Brody
+The Curious Case of Benjamin Button:Drama:2008:Brad Pitt
+Rain Man:Drama:1988:Dustin Hoffman
+The Social Network:Drama:2010:Jesse Eisenberg
+The Truman Show:Drama:1998:Jim Carrey
+Million Dollar Baby:Drama:2004:Clint Eastwood
+The Blind Side:Drama:2009:Sandra Bullock
+Slumdog Millionaire:Drama:2008:Dev Patel
+12 Years a Slave:Drama:2013:Chiwetel Ejiofor
+The King's Speech:Drama:2010:Colin Firth
+The Bridges of Madison County:Drama:1995:Clint Eastwood
+Philadelphia:Drama:1993:Tom Hanks
+Dead Poets Society:Drama:1989:Robin Williams
+Into the Wild:Drama:2007:Emile Hirsch
+The Help:Drama:2011:Emma Stone
+Goodfellas:Drama:1990:Robert De Niro
+In the Name of the Father:Drama:1993:Daniel Day-Lewis
+Boyhood:Drama:2014:Ellar Coltrane
+Manchester by the Sea:Drama:2016:Casey Affleck
+Her:Drama:2013:Joaquin Phoenix
+The Fault in Our Stars:Drama:2014:Shailene Woodley
+The Pursuit of Happyness:Drama:2006:Jaden Smith
+The Soloist:Drama:2009:Jamie Foxx
+Forrest Gump:Drama:1994:Robin Wright
+The Shawshank Redemption:Drama:1994:Morgan Freeman
+The Blind Side:Drama:2009:Quinton Aaron
+12 Years a Slave:Drama:2013:Michael Fassbender
+The King's Speech:Drama:2010:Geoffrey Rush
+The Help:Drama:2011:Viola Davis
+Goodfellas:Drama:1990:Joe Pesci
+In the Name of the Father:Drama:1993:Pete Postlethwaite
+Boyhood:Drama:2014:Ethan Hawke
+Manchester by the Sea:Drama:2016:Michelle Williams
+Her:Drama:2013:Scarlett Johansson
+The Fault in Our Stars:Drama:2014:Ansel Elgort
+The Pursuit of Happyness:Drama:2006:Thandie Newton
+The Soloist:Drama:2009:Robert Downey Jr.
+Forrest Gump:Drama:1994:Gary Sinise
+The Shawshank Redemption:Drama:1994:James Whitmore
+The Blind Side:Drama:2009:Kathy Bates
+12 Years a Slave:Drama:2013:Lupita Nyong'o
+The King's Speech:Drama:2010:Helena Bonham Carter
+The Help:Drama:2011:Octavia Spencer
+Goodfellas:Drama:1990:Lorraine Bracco
+In the Name of the Father:Drama:1993:Emma Thompson
+Boyhood:Drama:2014:Lorelei Linklater
+Manchester by the Sea:Drama:2016:Kyle Chandler
+Her:Drama:2013:Amy Adams
+The Fault in Our Stars:Drama:2014:Willem Dafoe
+The Pursuit of Happyness:Drama:2006:Brian Howe
+The Soloist:Drama:2009:Catherine Keener
+Forrest Gump:Drama:1994:Haley Joel Osment
+The Shawshank Redemption:Drama:1994:Bob Gunton
+The Blind Side:Drama:2009:Ray McKinnon
+12 Years a Slave:Drama:2013:Benedict Cumberbatch
+The King's Speech:Drama:2010:Derek Jacobi
+The Help:Drama:2011:Allison Janney
+Goodfellas:Drama:1990:Paul Sorvino
+In the Name of the Father:Drama:1993:Don Baker
+Boyhood:Drama:2014:Patricia Arquette
+Manchester by the Sea:Drama:2016:Lucas Hedges
+Her:Drama:2013:Rooney Mara
+The Fault in Our Stars:Drama:2014:Laura Dern
+Terminator 2: Judgment Day:Action:1991:Arnold Schwarzenegger
+Lethal Weapon:Action:1987:Mel Gibson
+Mad Max:Action:1979:Mel Gibson
+Die Another Day:Action:2002:Pierce Brosnan
+Speed:Action:1994:Keanu Reeves
+Mission: Impossible:Action:1996:Tom Cruise
+Bad Boys:Action:1995:Will Smith
+The Fast and the Furious:Action:2001:Vin Diesel
+Rush Hour:Action:1998:Jackie Chan
+Con Air:Action:1997:Nicolas Cage
+Armageddon:Action:1998:Bruce Willis
+The Rock:Action:1996:Sean Connery
+True Lies:Action:1994:Arnold Schwarzenegger
+Predator:Action:1987:Arnold Schwarzenegger
+Die Hard 2:Action:1990:Bruce Willis
+Rambo:First Blood:Action:1982:Sylvester Stallone
+The Bourne Identity:Action:2002:Matt Damon
+Black Panther:Action:2018:Chadwick Boseman
+Interstellar:Science Fiction:2014:Matthew McConaughey
+Pride and Prejudice:Romantic:2005:Keira Knightley
+The Notebook:Romantic:2004:Rachel McAdams
+Titanic:Romantic:1997:Leonardo DiCaprio
+La La Land:Romantic:2016:Ryan Gosling
+The Fault in Our Stars:Romantic:2014:Shailene Woodley
+A Walk to Remember:Romantic:2002:Mandy Moore
+The Princess Bride:Romantic:1987:Cary Elwes
+Pretty Woman:Romantic:1990:Julia Roberts
+The Time Traveler's Wife:Romantic:2009:Rachel McAdams
+10 Things I Hate About You:Romantic:1999:Heath Ledger
+Crazy, Stupid, Love:Romantic:2011:Ryan Gosling
+The Proposal:Romantic:2009:Sandra Bullock
+500 Days of Summer:Romantic:2009:Joseph Gordon-Levitt
+The Wedding Singer:Romantic:1998:Adam Sandler
+Dirty Dancing:Romantic:1987:Patrick Swayze
+About Time:Romantic:2013:Domhnall Gleeson
+Notting Hill:Romantic:1999:Julia Roberts
+The Holiday:Romantic:2006:Cameron Diaz
+Love, Actually:Romantic:2003:Hugh Grant
+Brokeback Mountain:Romantic:2005:Heath Ledger
+Inception:Science Fiction:2010:Leonardo DiCaprio
+The Dark Knight:Action:2008:Christian Bale
+The Shawshank Redemption:Drama:1994:Tim Robbins
+Pulp Fiction:Crime:1994:John Travolta
+Forrest Gump:Drama:1994:Tom Hanks
+The Godfather:Crime:1972:Marlon Brando
+Avatar:Science Fiction:2009:Sam Worthington
+The Lord of the Rings. The Return of the King:Fantasy:2003:Elijah Wood
+Jurassic Park:Science Fiction:1993:Sam Neill
+The Matrix:Science Fiction:1999:Keanu Reeves
+The Lion King:Drama:1994:Matthew Broderick
+Gladiator:Action:2000:Russell Crowe
+Inglourious Basterds:Action:2009:Brad Pitt
+The Departed:Crime:2006:Leonardo DiCaprio
+The Silence of the Lambs:Drama:1991:Anthony Hopkins
+The Green Mile:Drama:1999:Tom Hanks
+Saving Private Ryan:Action:1998:Tom Hanks
+The Wolf of Wall Street:Drama:2013:Leonardo DiCaprio
+Catch Me If You Can:Comedy:2002:Leonardo DiCaprio
+Revolutionary Road:Drama:2008:Leonardo DiCaprio
+Shutter Island:Drama:2010:Leonardo DiCaprio
+The Revenant:Drama:2015:Leonardo DiCaprio
+The Great Gatsby:Drama:2013:Leonardo DiCaprio
+Blood Diamond:Drama:2006:Leonardo DiCaprio
+Gangs of New York:Drama:2002:Leonardo DiCaprio
+Romeo + Juliet:Drama:1996:Leonardo DiCaprio
+The Aviator:Drama:2004:Leonardo DiCaprio
+Selena:Biography:1997:Jennifer Lopez
+Out of Sight:Crime:1998:Jennifer Lopez
+The Wedding Planner:Comedy:2001:Jennifer Lopez
+Maid in Manhattan:Comedy:2002:Jennifer Lopez
+Hustlers:Crime:2019:Jennifer Lopez
+Monster-in-Law:Comedy:2005:Jennifer Lopez
+Enough:Thriller:2002:Jennifer Lopez
+The Boy Next Door:Thriller:2015:Jennifer Lopez
+Second Act:Comedy:2018:Jennifer Lopez
+Shall We Dance?:Comedy:2004:Jennifer Lopez
+The Mask:Comedy:1994:Cameron Diaz
+There's Something About Mary:Comedy:1998:Cameron Diaz
+Charlie's Angels:Action:2000:Cameron Diaz
+Shrek:Animation:2001:Cameron Diaz
+The Holiday:Comedy:2006:Cameron Diaz
+Bad Teacher:Comedy:2011:Cameron Diaz
+Knight and Day:Action:2010:Cameron Diaz
+My Best Friend's Wedding:Comedy:1997:Cameron Diaz
+The Other Woman:Comedy:2014:Cameron Diaz
+Gangs of New York:Drama:2002:Cameron Diaz
+The Sweetest Thing:Comedy:2002:Cameron Diaz
+In Her Shoes:Drama:2005:Cameron Diaz
+What Happens in Vegas:Comedy:2008:Cameron Diaz
+Jumanji. Welcome to the Jungle:Action:2017:Dwayne Johnson
+Fast & Furious 6:Action:2013:Dwayne Johnson
+Hobbs & Shaw:Action:2019:Dwayne Johnson
+San Andreas:Action:2015:Dwayne Johnson
+Jumanji. The Next Level:Action:2019:Dwayne Johnson
+Rampage:Action:2018:Dwayne Johnson
+Skyscraper:Action:2018:Dwayne Johnson
+The Scorpion King:Action:2002:Dwayne Johnson
+Baywatch:Comedy:2017:Dwayne Johnson
+Journey 2. The Mysterious Island:Action:2012:Dwayne Johnson
+The Game Plan:Comedy:2007:Dwayne Johnson
+Gone in 60 Seconds:Action:2000:Angelina Jolie
+Original Sin:Drama:2001:Angelina Jolie
+The Cradle of Life:Action:2003:Angelina Jolie
+A Mighty Heart:Drama:2007:Angelina Jolie
+The Tourist:Drama:2010:Angelina Jolie
+Alexander:Action:2004:Angelina Jolie
+Kung Fu Panda:Animation:2008:Angelina Jolie
+Wanted:Action:2008:Angelina Jolie
+Changeling:Drama:2008:Angelina Jolie
+In the Land of Blood and Honey:Drama:2011:Angelina Jolie
+Maleficent:Fantasy:2014:Angelina Jolie
+By the Sea:Drama:2015:Angelina Jolie
+Kung Fu Panda 2:Animation:2011:Angelina Jolie
+Salt:Action:2010:Angelina Jolie
+Mr. & Mrs. Smith:Action:2005:Angelina Jolie
+Girl, Interrupted:Drama:1999:Angelina Jolie
+Playing by Heart:Drama:1998:Angelina Jolie
+Foxfire:Drama:1996:Angelina Jolie
+Beyond Borders:Drama:2003:Angelina Jolie
+Taking Lives:Crime:2004:Angelina Jolie
+The Bone Collector:Crime:1999:Angelina Jolie
+Girl, Interrupted:Drama:1999:Angelina Jolie
+Gia:Drama:1998:Angelina Jolie
+Playing by Heart:Drama:1998:Angelina Jolie
+Foxfire:Drama:1996:Angelina Jolie
+Cyborg 2:Action:1993:Angelina Jolie
+The Bone Collector:Crime:1999:Angelina Jolie
+Sky Captain and the World of Tomorrow:Action:2004:Angelina Jolie
+The Good Shepherd:Drama:2006:Angelina Jolie
+A Mighty Heart:Drama:2007:Angelina Jolie
+Maleficent:Fantasy:2014:Angelina Jolie
+The Tourist:Drama:2010:Angelina Jolie
+Lara Croft. Tomb Raider:Action:2001:Angelina Jolie
